@@ -20,3 +20,16 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+*.tfvars
+.env
+crash.log
+*.tfplan
+.DS_Store
+.vscode/
+.idea/
+*.swp
