@@ -33,3 +33,4 @@ crash.log
 .vscode/
 .idea/
 *.swp
+.terraform.lock.hcl
